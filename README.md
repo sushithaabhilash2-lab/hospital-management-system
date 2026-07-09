@@ -287,3 +287,5 @@ http://127.0.0.1:8000/docs
 Developed by **Sushitha Abhilash**
 
 Backend Developer | Python | FastAPI | SQLAlchemy
+
+![alt text](FASTAPI_Auth_login_post-1.png) ![alt text](FASTAPI_get_Patients-1.png) ![alt text](FASTAPI_get_Doctors-1.png) ![alt text](FASTAPI_new_Appointment-1.png)
